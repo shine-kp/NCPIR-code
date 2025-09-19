@@ -10,5 +10,4 @@ def reverse_and_add(n, k):
             return [i, n]
     return [-1, -1]
 
-print(reverse_and_add(89, 30))  
 print(reverse_and_add(56, 10)) 
